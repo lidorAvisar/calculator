@@ -1,0 +1,11 @@
+.buttons{
+    width: 123%;
+}
+
+.style-button{
+    height: 90px;
+    width: 20%;
+    margin: 1px;
+    font-size: larger;
+    font-weight: bold;
+}
